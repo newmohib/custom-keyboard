@@ -1,0 +1,15 @@
+body{
+    background-color: #080808;
+}
+#keyboard{
+    background-color: #080808;
+    
+}
+
+.button_custom_br{
+    background-color: #8fc9eb;
+    color: ffff;
+}
+.keyboard_height{
+   min-height: 180px;
+}
